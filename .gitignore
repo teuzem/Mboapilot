@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environnement et secrets
+.env
+
+# Base de données et fichiers générés
+db.sqlite3
+staticfiles/
+media/
+
+# Éditeurs / OS
+.idea/
+.vscode/
+Thumbs.db
